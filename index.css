@@ -1,11 +1,19 @@
 /* index.css by Maria Torres */
-   
+<!DOCTYPE html>
 <html>
 <head>
 <style>
-body {background-color: light-blue;}
-h1   {color: red-orange;}
-p    {color: rasberry;}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
 </style>
 </head>
-</html>
+<body>
+
