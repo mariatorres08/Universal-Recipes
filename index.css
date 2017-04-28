@@ -3,8 +3,8 @@
 <html>
 <head>
 <style>
+body {background-color: powderblue;}
 h1 {
-    {background-color: powderblue;}
     color: blue;
     font-family: verdana;
     font-size: 300%;
