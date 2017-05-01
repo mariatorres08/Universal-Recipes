@@ -6,6 +6,9 @@
 body {
      background-color: lightblue;
 }
+</style>
+</head>
+
 h1 {
     color: blue;
     font-family: verdana;
@@ -16,7 +19,6 @@ p  {
     font-family: courier;
     font-size: 150%;
 }
-</style>
-</head>
+
 <body>
 
