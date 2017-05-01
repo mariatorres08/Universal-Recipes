@@ -3,22 +3,8 @@
 <head>
 <style>
 body {
-    background-color: blue;
+    background-color: lightblue;
 }
 </style>
 </head>
-</body>
 <body>
-h1 {
-    color: blue;
-    font-family: verdana;
-    font-size: 200%;
-}
-p  {
-    color: red;
-    font-family: courier;
-    font-size: 150%;
-}
-
-</body>
-</html>
