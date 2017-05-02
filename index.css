@@ -16,5 +16,8 @@ p  {
     font-family: courier;
     font-size: 150%;
 }
-
+li a {
+    display: block;
+    width: 60px;
+}
 
