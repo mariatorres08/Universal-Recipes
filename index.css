@@ -1,18 +1,18 @@
 
 
  body {
-     background-color:lightblue;
+     background-color: teal;
  }
 
 
 
 h1 {
-    color: blue;
+    color: red;
     font-family: verdana;
     font-size: 200%;
 }
 p  {
-    color: red;
+    color: white ;
     font-family: courier;
     font-size: 150%;
 }
