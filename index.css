@@ -16,5 +16,7 @@ p  {
     color: white ;
     font-family: courier;
     font-size: 150%;
+    border: 1px solid powderblue;
+    padding: 30px;
 }
 
